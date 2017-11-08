@@ -1,0 +1,8 @@
+{
+  "name": "Orange Bus Bot",
+  "version": "1.0.0",
+  "description": "Orange Bus Bot",
+  "main": "bot.js",
+  "author": "CooperCape",
+  "dependencies": {}
+}
